@@ -1,2 +1,2 @@
 # Python-Tobias-Englund
-Python Course For AI23 @IT-Högskolan🤖🧠
+Python Course For AI&ML23 @IT-Högskolan🤖🧠
